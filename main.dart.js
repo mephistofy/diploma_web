@@ -40588,7 +40588,7 @@ k=H.b([M.ah(null,new T.GR(new S.c7(C.aQ,null,null,null,null,null,C.T),new T.dt(C
 o=p.c
 n=J.am(o)
 if(n.u(o,"topManager")||n.u(o,"sorter"))k.push(Q.fT(!1,null,null,!0,!1,L.dI(C.tu,null,null),new F.a6Y(),!1,null,null,null,null,L.G("\u041d\u0435\u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0437\u0430\u044f\u0432\u043a\u0438",null,null,null,null,null,null,null,null),null))
-if(n.u(o,"topManager")||n.u(o,"manager"))k.push(Q.fT(!1,null,null,!0,!1,L.dI(C.tx,null,null),new F.a6Z(),!1,null,null,null,null,L.G("\u0417\u0430\u044f\u0432\u043a\u0438",null,null,null,null,null,null,null,null),null))
+if(n.u(o,"topManager")||n.u(o,"manager")||n.u(o,"worker"))k.push(Q.fT(!1,null,null,!0,!1,L.dI(C.tx,null,null),new F.a6Z(),!1,null,null,null,null,L.G("\u0417\u0430\u044f\u0432\u043a\u0438",null,null,null,null,null,null,null,null),null))
 if(n.u(o,"manager")||n.u(o,"topManager"))k.push(Q.fT(!1,null,null,!0,!1,L.dI(C.tq,null,null),new F.a7_(),!1,null,null,null,null,L.G("\u0421\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u0438",null,null,null,null,null,null,null,null),null))
 if(n.u(o,"manager")||n.u(o,"topManager"))k.push(Q.fT(!1,null,null,!0,!1,L.dI(C.tr,null,null),new F.a70(),!1,null,null,null,null,L.G("\u041e\u0442\u0434\u0435\u043b\u044b",null,null,null,null,null,null,null,null),null))
 k.push(Q.fT(!1,null,null,!0,!1,L.dI(C.tv,null,null),new F.a71(),!1,null,null,null,null,L.G("\u041c\u043e\u0439 \u0430\u043a\u043a\u0430\u0443\u043d\u0442",null,null,null,null,null,null,null,null),null))
